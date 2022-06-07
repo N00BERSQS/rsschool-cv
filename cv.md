@@ -12,3 +12,11 @@
 * ### HTML
 * ### Markdown
 * ### Git
+***
+
+## Education
+* ### JS/FE Pre-School 2022Q2 (01.06.2022- ??)
+***
+## Languages
+* ### Russian _native speaker_
+* ### English _A2 will be soon_
