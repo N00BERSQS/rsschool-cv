@@ -1,0 +1,156 @@
+body{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color:rgb(58, 55, 55);
+}
+
+#img-avatar {
+    width: 170px;
+    height: 170px;
+    border: 1px;
+    border-radius: 50%;
+    margin-left: 43%;
+}
+
+#console {
+    color: #d73a49;
+    font-size: 15px;
+}
+
+#log {
+    color: #6f42c1;
+    font-size: 15px;
+}
+
+#hello-world {
+    color: #6f42c1;
+    font-size: 15px;
+}
+
+#ul {
+    margin: 0;
+    padding-left: 0;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+
+    color: white
+}
+
+#li-1, #li-2, #li-3, #li-4, #li-5, #li-6 {
+float:right;
+padding-right: 12px;
+color: white
+}
+
+#nav{
+    border: 1px solid;
+    margin-left: 67%;
+    background-color: black;
+    position: fixed;
+}
+
+#nikita-x {
+    margin-left: 45%;
+    margin-top: 0;
+    color:white
+}
+
+#contacts {
+    border: 0px;
+    background-color: #6f42c1;
+    border-radius: 5px;
+    padding-left: 5px;
+    color: white;
+    margin-right: 50% ;
+
+    
+}
+#about-me{
+    border: 0px;
+    background-color: rgb(219, 146, 255);
+    padding-left: 5px;
+    border-radius: 5px;
+    color: white;
+    margin-left: 50%;
+}
+
+#code {
+    border: 0px;
+    background-color:lightsalmon;
+    padding-left: 5px;
+    border-radius: 5px;
+    color: white;
+    margin-left: 50%
+}
+
+#education {
+    border: 0px;
+    background-color:forestgreen;
+    padding-left: 10px;
+    border-radius: 5px;
+    color: white;
+    margin-right: 50%
+}
+
+#skill-list, #skills {
+    list-style: none;
+    border: 0px;
+    background-color:darkturquoise;
+    padding-left: 5px;
+    border-radius: 5px;
+    color: white;
+    margin-right: 50%
+}
+
+#languages {
+    list-style: none;
+    border: 0px;
+    background-color:darkgoldenrod;
+    padding-left: 5px;
+    border-radius: 5px;
+    color: white;
+    margin-left: 50%
+}
+
+#contacts-li1, #contacts-li2 {
+    list-style: none;
+
+
+}
+
+#img-rs {
+height: 100px;
+width: 100px;
+margin-top: 10%;
+
+    
+}
+
+#img-github {
+    height: 85px;
+    width: 60px;
+    margin-left: 1%;
+}
+
+#year {
+    margin-bottom: 10%;
+    color: white;
+}
+
+@media screen and (max-width: 700px) {
+#img-avatar { margin-left:34%; }
+#nikita-x { margin-left: 39% }
+
+}
+
+
+
+
+
+
